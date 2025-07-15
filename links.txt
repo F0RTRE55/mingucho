@@ -1,0 +1,3 @@
+1: https://brave-chart-144735.framer.app/
+2: https://brave-chart-144735.framer.app/./contact
+3: https://brave-chart-144735.framer.app/./developing
